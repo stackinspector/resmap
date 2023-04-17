@@ -11,5 +11,5 @@ name = "resmap"
 path = "main.rs"
 
 [dependencies]
-sha2 = "0.10"
+crc32fast = "1"
 hex = "0.4"
